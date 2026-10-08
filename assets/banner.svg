@@ -1,0 +1,31 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#0b1220"/>
+    <stop offset="1" stop-color="#111c35"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" x2="1">
+    <stop offset="0" stop-color="#38bdf8"/>
+    <stop offset="1" stop-color="#818cf8"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#263653"/>
+<rect x="36" y="38" width="7" height="224" rx="3.5" fill="url(#accent)"/>
+<text x="70" y="78" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">ROBSON DUTRA • PORTFÓLIO</text>
+<text x="70" y="128" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Backend Developer em formação</text>
+<text x="70" y="160" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="18">Ciência da Computação • 4º período • foco em Python</text>
+<g transform="translate(70 201)">
+<rect width="145" height="42" rx="12" fill="#17243d" stroke="#2c4368"/>
+<text x="72" y="27" text-anchor="middle" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">PYTHON</text>
+<rect x="158" width="145" height="42" rx="12" fill="#17243d" stroke="#2c4368"/>
+<text x="230" y="27" text-anchor="middle" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">BACKEND</text>
+<rect x="316" width="145" height="42" rx="12" fill="#17243d" stroke="#2c4368"/>
+<text x="388" y="27" text-anchor="middle" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">SQL</text>
+</g>
+<g transform="translate(930 62)">
+<circle cx="92" cy="86" r="80" fill="#101a2f" stroke="#334b73" stroke-width="2"/>
+<path d="M52 92h80M62 75h60M70 109h44" stroke="#38bdf8" stroke-width="5" stroke-linecap="round"/>
+<path d="M82 56L60 84l22 28M104 56l22 28-22 28" fill="none" stroke="#818cf8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
