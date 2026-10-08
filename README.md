@@ -1,10 +1,16 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Robson Dutra!
+<img src="./assets/banner.svg" alt="Banner do perfil de Robson Dutra" width="100%"/>
+
+</div>
+
+## 👋 Sobre mim
+
+<div align="center">
 
 🎓 **Estudante de Ciência da Computação • 4º período**  
-💻 **Foco em Backend, principalmente Python**  
-🚀 **Buscando minha primeira oportunidade na área de tecnologia**
+🐍 **Foco em desenvolvimento Backend, principalmente Python**  
+🚀 **Buscando minha primeira oportunidade profissional na área de tecnologia**
 
 </div>
 
@@ -46,11 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=sorteador-mega-sena&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/robsondutraa/wonder-app-refresh">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=wonder-app-refresh&theme=tokyonight&hide_border=true" />
@@ -80,12 +82,12 @@
 
 <div align="center">
 
-🐍 Aprofundando **Python**  
-⚙️ Estudando **Backend**  
+🐍 Aprofundando **Python** &nbsp; • &nbsp;
+⚙️ Estudando **Backend** &nbsp; • &nbsp;
 🗄️ Praticando **PostgreSQL e MySQL**  
-🐳 Conhecendo melhor **Docker**  
-☁️ Explorando **AWS**  
-🤖 Futuramente, **Machine Learning**
+🐳 **Docker** &nbsp; • &nbsp;
+☁️ **AWS** &nbsp; • &nbsp;
+🤖 Explorando **Machine Learning**
 
 </div>
 
