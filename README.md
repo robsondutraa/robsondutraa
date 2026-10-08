@@ -1,60 +1,47 @@
-# Olá, eu sou o Robson Dutra! 👋
+<h2 align="center">💻 Stack & Ferramentas</h2>
 
-🎓 Estudante de Ciência da Computação | 4º Período  
-🚀 Buscando minha primeira oportunidade na área de tecnologia
+<div align="center">
 
----
+<p><strong>Foco Principal:</strong></p>
 
-## 🛠️ Minhas Stacks
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,aws,linux&perline=6" />
 
-### 💻 Desenvolvimento
-<div align="left">
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pandas&perline=1" />
 
-</div>
+<p><strong>Uso em desenvolvimento web:</strong></p>
 
-### 🗄️ Banco de Dados
-<div align="left">
+<img src="https://skillicons.dev/icons?i=js&perline=1" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-
-</div>
-
-### ⚙️ DevOps, Cloud & Sistema
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux&theme=dark" />
-
-</div>
-
-### 📊 Dados
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=pandas&theme=dark" />
-
-</div>
-
-### 🤖 Explorando
-<div align="left">
+<p><strong>Quero explorar:</strong></p>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=python&logoColor=38BDF8" />
 
 </div>
 
----
+<br/>
 
-## 🎯 Interesses
+<h2 align="center">🤝 Conecte-se comigo:</h2>
 
-- ⚙️ Backend
-- 🐍 Python
-- 🗄️ Bancos de dados
-- 📊 Dados
-- 🤖 Machine Learning
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/robson-dutra-85255b27a/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;
+<a href="mailto:robsondutr4.05@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-## 📫 Contato
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robson%20Dutra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-dutra-85255b27a/)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robsondutr4.05@gmail.com)
+<br/>
+
+<div align="center">
+
+🎓 **Ciência da Computação • 4º período**  
+🐍 **Foco em Backend e Python**  
+🚀 **Buscando minha primeira oportunidade em tecnologia**
+
+</div>
