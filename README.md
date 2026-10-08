@@ -1,90 +1,108 @@
-# Olá, eu sou o Robson Evangelista Dutra! 👋
+<div align="center">
 
-🎓 **Estudante de Ciência da Computação — 4º período**  
-💻 **Foco em Backend, principalmente Python**  
-🚀 Buscando minha **primeira oportunidade profissional na área de tecnologia**
+<img src="./assets/banner.svg" alt="Banner do perfil de Robson Evangelista Dutra" width="100%"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=robsondutraa&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" />
-</p>
+</div>
 
----
+<div align="center">
+
+<a href="https://github.com/robsondutraa"><img src="https://img.shields.io/badge/GitHub-robsondutraa-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/robson-dutra-85255b27a/"><img src="https://img.shields.io/badge/LinkedIn-Robson%20Dutra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:robsondutr4.05@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação com foco no desenvolvimento **Backend**, principalmente utilizando **Python**.
+> 🎓 Estudante de **Ciência da Computação — 4º período**  
+> 💻 Foco em **Backend**, principalmente **Python**  
+> 🚀 Buscando minha **primeira oportunidade profissional na área de tecnologia**
 
-Meu objetivo é transformar o que venho aprendendo em projetos práticos, evoluindo constantemente minhas habilidades e conquistando minha primeira oportunidade profissional na área de tecnologia.
-
-Atualmente, estou fortalecendo meus conhecimentos em desenvolvimento backend, bancos de dados, infraestrutura e boas práticas de programação.
+Gosto de aprender construindo. Meu objetivo é transformar o conhecimento da graduação em projetos práticos, fortalecer minha base como desenvolvedor backend e evoluir continuamente.
 
 ---
 
-## 🛠️ Tecnologias
+## 🧰 Tecnologias & ferramentas
 
-### 💻 Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### ⚙️ Backend & Dados
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,postgres,mysql,docker,aws,linux&perline=7" alt="Tecnologias: Python, JavaScript, PostgreSQL, MySQL, Docker, AWS e Linux"/>
 
-### ☁️ DevOps & Infraestrutura
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br/><br/>
 
-### 🤖 Explorando
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=python&logoColor=38BDF8" />
+
+</div>
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 🐍 [Learning Python](https://github.com/robsondutraa/learning-python)
-Repositório dedicado aos meus estudos e prática de Python, acompanhando minha evolução na linguagem.
+<table>
+<tr>
+<td width="50%">
 
-### 🎲 [Sorteador Mega Sena](https://github.com/robsondutraa/sorteador-mega-sena)
-Projeto prático desenvolvido para exercitar lógica de programação e construção de aplicações em Python.
+### 🐍 [learning-python](https://github.com/robsondutraa/learning-python)
 
-> Estou utilizando meus projetos como forma de transformar estudo em prática e construir um portfólio cada vez mais consistente.
+Repositório dedicado aos meus estudos, exercícios e prática de **Python**.
+
+**Foco:** fundamentos • lógica • prática
+
+</td>
+<td width="50%">
+
+### 🎲 [sorteador-mega-sena](https://github.com/robsondutraa/sorteador-mega-sena)
+
+Projeto prático em **Python** para exercitar lógica de programação e construção de aplicações.
+
+**Foco:** Python • lógica • projeto prático
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub em números
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsondutraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondutraa&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=robsondutraa&theme=tokyonight" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=robsondutraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondutraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=robsondutraa&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 📈 Minha evolução
 
-**Ciência da Computação → Backend → Python → Projetos práticos → Primeira oportunidade profissional**
+<div align="center">
 
-Estou construindo minha base passo a passo, com foco em aprender, praticar e evoluir como desenvolvedor.
+**Ciência da Computação**  
+↓  
+**Backend**  
+↓  
+**Python**  
+↓  
+**Projetos práticos**  
+↓  
+**Primeira oportunidade profissional**
 
----
+</div>
 
-## 📫 Vamos conversar?
+<br/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/robson-dutra-85255b27a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Robson%20Dutra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:robsondutr4.05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-robsondutr4.05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+> **Aprendendo, construindo e evoluindo — um projeto de cada vez.**
 
----
+<div align="center">
 
-> 💡 **Aprendendo, construindo e evoluindo. Um projeto de cada vez.**
+<img src="https://komarev.com/ghpvc/?username=robsondutraa&label=Visualizações%20do%20perfil&color=2563eb&style=flat-square" alt="Visualizações do perfil" />
+
+</div>
