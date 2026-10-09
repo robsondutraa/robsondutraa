@@ -22,11 +22,7 @@
 
 <p><strong>Foco Principal:</strong></p>
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,aws,linux&perline=6" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=pandas&perline=1" />
+<img src="https://skillicons.dev/icons?i=python,pandas,postgres,mysql,docker,aws,linux,git,github,c&perline=5" alt="Python, Pandas, PostgreSQL, MySQL, Docker, AWS, Linux, Git, GitHub e C" />
 
 <p><strong>Uso em desenvolvimento web:</strong></p>
 
