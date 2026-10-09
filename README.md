@@ -6,14 +6,21 @@
 
 ## 👋 Sobre mim
 
-<div align="center">
-
-🎓 **Estudante de Ciência da Computação • 4º período**  
-🐍 **Foco em desenvolvimento Backend, principalmente Python**  
-🚀 **Buscando minha primeira oportunidade profissional na área de tecnologia**
-
-</div>
-
+<table>
+  <tr>
+    <td width="68%" valign="middle">
+      🎓 Sou estudante de <strong>Ciência da Computação (4º período)</strong> e estou construindo minha trajetória na área de tecnologia, com foco em <strong>desenvolvimento Backend e Python</strong>.<br/><br/>
+      🐍 Tenho interesse em desenvolver soluções práticas, organizar e processar dados com <strong>Pandas</strong> e trabalhar com bancos relacionais como <strong>PostgreSQL e MySQL</strong>.<br/><br/>
+      🛠️ Também venho ampliando meus conhecimentos em <strong>JavaScript, C, Git, GitHub, Linux e Docker</strong>, além de explorar conceitos de cloud com <strong>AWS</strong>.<br/><br/>
+      📚 Gosto de aprender colocando a mão na massa, evoluindo por meio de projetos e buscando entender não só como o código funciona, mas como criar soluções claras e úteis.<br/><br/>
+      🤖 No futuro, quero aprofundar meus conhecimentos em <strong>Machine Learning</strong> e conectar esse aprendizado à minha base em Python e dados.<br/><br/>
+      🚀 Estou em busca da minha <strong>primeira oportunidade na área de tecnologia</strong>, onde possa contribuir, aprender com outras pessoas e crescer como desenvolvedor.
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/858/721/8d9.png" alt="Goku" width="200" />
+    </td>
+  </tr>
+</table>
 ---
 
 <h2 align="center">💻 Stack & Ferramentas</h2>
