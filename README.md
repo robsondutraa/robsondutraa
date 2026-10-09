@@ -87,12 +87,6 @@ Projetos em que pratico programação e desenvolvo minhas habilidades.
       <sub>Python · Lógica de programação</sub>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/robsondutraa/wonder-app-refresh">🧩 Wonder App Refresh</a></h3>
-      Projeto pessoal em desenvolvimento. Acesse o repositório para conferir os detalhes e a implementação.
-    </td>
-  </tr>
 </table>
 
 ---
