@@ -52,7 +52,7 @@
 </div>
 
 
-<p align="center"><strong>🤝 Conecte-se comigo</strong></p>
+<h2 align="center">🤝 Conecte-se comigo</h2>
 
 <div align="center">
 
