@@ -22,7 +22,11 @@
 
 <p><strong>Foco Principal:</strong></p>
 
-<img src="https://skillicons.dev/icons?i=python,pandas,postgres,mysql,docker,aws,linux,git,github,c&perline=5" alt="Python, Pandas, PostgreSQL, MySQL, Docker, AWS, Linux, Git, GitHub e C" />
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,aws,linux,git,github,c&perline=5" alt="Python, Pandas, PostgreSQL, MySQL, Docker, AWS, Linux, Git, GitHub e C" />
+
+<p><strong>Dados:</strong></p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
 <p><strong>Uso em desenvolvimento web:</strong></p>
 
