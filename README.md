@@ -17,7 +17,7 @@
       🚀 Estou em busca da minha <strong>primeira oportunidade na área de tecnologia</strong>, onde possa contribuir, aprender com outras pessoas e crescer como desenvolvedor.
     </td>
     <td width="32%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/robsondutraa/robsondutraa/main/assets/goku.png" alt="Goku" width="200" />
+      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/2q8t32mkvhp21.png" alt="Goku" width="200" />
     </td>
   </tr>
 </table>
