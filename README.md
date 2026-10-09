@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/python-banner.svg" alt="Banner do perfil de Robson Dutra" width="100%"/>
+<img src="./assets/python-banner.svg?v=3" alt="Banner do perfil de Robson Dutra" width="100%"/>
 
 </div>
 
