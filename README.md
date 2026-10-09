@@ -26,7 +26,9 @@
 
 <p><strong>Dados:</strong></p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" height="48" />
+
+&nbsp;&nbsp;
 
 <p><strong>Uso em desenvolvimento web:</strong></p>
 
