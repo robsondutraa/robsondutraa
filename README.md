@@ -17,7 +17,7 @@
       🚀 Estou em busca da minha <strong>primeira oportunidade na área de tecnologia</strong>, onde possa contribuir, aprender com outras pessoas e crescer como desenvolvedor.
     </td>
     <td width="32%" align="center" valign="bottom">
-      <img src="https://i.pinimg.com/1200x/54/77/41/5477411898fc68c1955b3756f8be90db.jpg" alt="Goku" width="520" style="transform: translateY(20px);" />
+      <img src="https://i.pinimg.com/1200x/54/77/41/5477411898fc68c1955b3756f8be90db.jpg" alt="Goku" width="620" style="transform: translateY(20px);" />
     </td>
   </tr>
 </table>
