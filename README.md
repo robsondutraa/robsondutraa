@@ -16,7 +16,7 @@
       🤖 No futuro, quero aprofundar meus conhecimentos em <strong>Machine Learning</strong> e conectar esse aprendizado à minha base em Python e dados.<br/><br/>
       🚀 Estou em busca da minha <strong>primeira oportunidade na área de tecnologia</strong>, onde possa contribuir, aprender com outras pessoas e crescer como desenvolvedor.
     </td>
-    <td width="32%" align="center" valign="middle">
+    <td width="32%" align="center" valign="bottom">
       <img src="https://i.pinimg.com/736x/bf/13/d8/bf13d8f07421cea07349f8546feba72e.jpg" alt="Goku" width="280" />
     </td>
   </tr>
