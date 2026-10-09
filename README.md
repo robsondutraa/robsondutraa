@@ -75,21 +75,7 @@
 
 ---
 
-## 📊 GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=robsondutraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondutraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=robsondutraa&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 <h2 align="center">🎯 Atualmente</h2>
 
