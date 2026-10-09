@@ -22,9 +22,16 @@
 
 <p><strong>Foco Principal:</strong></p>
 
-<img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" height="48" />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,linux,git,github,c&perline=5" alt="PostgreSQL, MySQL, Docker, AWS, Linux, Git, GitHub e C" height="48" />
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" /></a>
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" /></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" /></a>
 
 <p><strong>Uso em desenvolvimento web:</strong></p>
 
