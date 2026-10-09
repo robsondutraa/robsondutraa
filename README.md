@@ -51,7 +51,6 @@
 
 </div>
 
----
 
 <h2 align="center">🤝 Conecte-se comigo</h2>
 
