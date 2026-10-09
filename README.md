@@ -53,6 +53,27 @@
 
 ---
 
+<h2 align="center">🤝 Conecte-se comigo</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/robson-dutra-85255b27a/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;
+<a href="mailto:robsondutr4.05@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/robsondutraa">
+<img src="https://img.shields.io/badge/GitHub-robsondutraa-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+
 ## 🚀 Projetos
 
 <div align="center">
@@ -92,25 +113,7 @@
 
 ---
 
-<h2 align="center">🤝 Conecte-se comigo</h2>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/robson-dutra-85255b27a/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-&nbsp;
-<a href="mailto:robsondutr4.05@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/robsondutraa">
-<img src="https://img.shields.io/badge/GitHub-robsondutraa-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 <br/>
 
