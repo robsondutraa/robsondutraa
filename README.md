@@ -68,22 +68,23 @@
 </div>
 
 
-## 🚀 Projetos
+## 🚀 Projetos em destaque
 
 <div align="center">
 
+<p>Alguns projetos que venho desenvolvendo e usando para colocar meus conhecimentos em prática.</p>
+
 <a href="https://github.com/robsondutraa/learning-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=learning-python&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=learning-python&theme=tokyonight&hide_border=true" alt="Projeto learning-python" />
 </a>
-
 <a href="https://github.com/robsondutraa/sorteador-mega-sena">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=sorteador-mega-sena&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=sorteador-mega-sena&theme=tokyonight&hide_border=true" alt="Projeto sorteador-mega-sena" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/robsondutraa/wonder-app-refresh">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=wonder-app-refresh&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=wonder-app-refresh&theme=tokyonight&hide_border=true" alt="Projeto wonder-app-refresh" />
 </a>
 
 </div>
