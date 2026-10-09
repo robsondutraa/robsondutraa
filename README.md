@@ -6,21 +6,21 @@
 
 ## 👋 Sobre mim
 
-<table>
-  <tr>
-    <td width="68%" valign="middle">
-      🎓 Sou estudante de <strong>Ciência da Computação (4º período)</strong> e estou construindo minha trajetória na área de tecnologia, com foco em <strong>desenvolvimento Backend e Python</strong>.<br/><br/>
-      🐍 Tenho interesse em desenvolver soluções práticas, organizar e processar dados com <strong>Pandas</strong> e trabalhar com bancos relacionais como <strong>PostgreSQL e MySQL</strong>.<br/><br/>
-      🛠️ Também venho ampliando meus conhecimentos em <strong>JavaScript, C, Git, GitHub, Linux e Docker</strong>, além de explorar conceitos de cloud com <strong>AWS</strong>.<br/><br/>
-      📚 Gosto de aprender colocando a mão na massa, evoluindo por meio de projetos e buscando entender não só como o código funciona, mas como criar soluções claras e úteis.<br/><br/>
-      🤖 No futuro, quero aprofundar meus conhecimentos em <strong>Machine Learning</strong> e conectar esse aprendizado à minha base em Python e dados.<br/><br/>
-      🚀 Estou em busca da minha <strong>primeira oportunidade na área de tecnologia</strong>, onde possa contribuir, aprender com outras pessoas e crescer como desenvolvedor.
-    </td>
-    <td width="32%" align="center" valign="bottom">
-      <img src="https://i.pinimg.com/1200x/54/77/41/5477411898fc68c1955b3756f8be90db.jpg" alt="Goku" width="620" style="transform: translateY(20px);" />
-    </td>
-  </tr>
-</table>
+🎓 Sou estudante de <strong>Ciência da Computação (4º período)</strong> e estou construindo minha trajetória na área de tecnologia, com foco em <strong>desenvolvimento Backend e Python</strong>.
+
+🐍 Tenho interesse em desenvolver soluções práticas, organizar e processar dados com <strong>Pandas</strong> e trabalhar com bancos relacionais como <strong>PostgreSQL e MySQL</strong>.
+
+🛠️ Também venho ampliando meus conhecimentos em <strong>JavaScript, C, Git, GitHub, Linux e Docker</strong>, além de explorar conceitos de cloud com <strong>AWS</strong>.
+
+📚 Gosto de aprender colocando a mão na massa, evoluindo por meio de projetos e buscando entender não só como o código funciona, mas como criar soluções claras e úteis.
+
+🤖 No futuro, quero aprofundar meus conhecimentos em <strong>Machine Learning</strong> e conectar esse aprendizado à minha base em Python e dados.
+
+🚀 Estou em busca da minha <strong>primeira oportunidade na área de tecnologia</strong>, onde possa contribuir, aprender com outras pessoas e crescer como desenvolvedor.
+
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/54/77/41/5477411898fc68c1955b3756f8be90db.jpg" alt="Goku" width="620" />
+</div>
 ---
 
 <h2 align="center">💻 Stack & Ferramentas</h2>
