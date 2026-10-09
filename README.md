@@ -64,11 +64,6 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/robsondutraa">
-<img src="https://img.shields.io/badge/GitHub-robsondutraa-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
