@@ -93,22 +93,6 @@ Projetos em que pratico programação e desenvolvo minhas habilidades.
 
 
 
-<h2 align="center">🎯 Atualmente</h2>
-
-<div align="center">
-
-🐍 Aprofundando **Python** &nbsp; • &nbsp;
-⚙️ Estudando **Backend** &nbsp; • &nbsp;
-🗄️ Praticando **PostgreSQL e MySQL**  
-🐳 **Docker** &nbsp; • &nbsp;
-☁️ **AWS** &nbsp; • &nbsp;
-🤖 Explorando **Machine Learning**
-
-</div>
-
----
-
-
 
 <br/>
 
