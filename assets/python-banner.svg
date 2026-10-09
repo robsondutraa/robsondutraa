@@ -5,11 +5,12 @@
 <linearGradient id="yellow" x1="0" x2="1"><stop stop-color="#facc15"/><stop offset="1" stop-color="#fbbf24"/></linearGradient>
 </defs>
 <rect width="1200" height="300" fill="url(#bg)"/>
-<g font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#e2e8f0">
-<text x="22" y="25" fill="#7dd3fc" font-weight="700">in</text>
-<text x="43" y="25">LinkedIn</text>
-<text x="104" y="25" fill="#64748b">|</text>
-<text x="117" y="25">robsondutr4.05@gmail.com</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#e2e8f0">
+<rect x="18" y="14" width="13" height="13" rx="2" fill="#0a66c2"/>
+<text x="21" y="24" font-size="10" font-weight="700" fill="#ffffff">in</text>
+<a href="https://www.linkedin.com/in/robson-dutra-85255b27a/" target="_blank"><text x="37" y="24" fill="#e2e8f0">Robson Dutra</text></a>
+<text x="112" y="24" fill="#64748b">•</text>
+<text x="122" y="24" fill="#e2e8f0">robsondutr4.05@gmail.com</text>
 </g>
 <g transform="translate(525 25)">
 <path d="M75 18h42c25 0 42 17 42 42v25H92c-24 0-42-17-42-42V43c0-14 11-25 25-25z" fill="url(#blue)"/>
