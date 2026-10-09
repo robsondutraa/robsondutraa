@@ -4,44 +4,120 @@
 
 </div>
 
-## Sobre mim
+## 👋 Sobre mim
 
-<img align="right" src="https://i.pinimg.com/1200x/54/77/41/5477411898fc68c1955b3756f8be90db.jpg" alt="Goku" width="240" />
+<img align="right" src="https://i.pinimg.com/1200x/54/77/41/5477411898fc68c1955b3756f8be90db.jpg" alt="Goku" width="280" />
 
-Sou estudante de **Ciência da Computação (4º período)** e estou construindo minha trajetória na área de tecnologia, com foco em **Backend e Python**.
 
-Tenho interesse em desenvolver soluções práticas, trabalhar com dados usando **Pandas** e utilizar bancos relacionais como **PostgreSQL e MySQL**. Também estudo JavaScript, C, Git, GitHub, Linux, Docker e conceitos de cloud com AWS.
+🎓 Sou estudante de <strong>Ciência da Computação (4º período)</strong> e estou construindo minha trajetória na área de tecnologia, com foco em <strong>desenvolvimento Backend e Python</strong>.
 
-Gosto de aprender na prática, criando projetos e buscando entender como desenvolver soluções claras e úteis. No futuro, quero aprofundar meus conhecimentos em **Machine Learning**.
+🐍 Tenho interesse em desenvolver soluções práticas, organizar e processar dados com <strong>Pandas</strong> e trabalhar com bancos relacionais como <strong>PostgreSQL e MySQL</strong>.
 
-Atualmente, busco minha primeira oportunidade na área de tecnologia para contribuir, aprender com a equipe e crescer como desenvolvedor.
+🛠️ Também venho ampliando meus conhecimentos em <strong>JavaScript, C, Git, GitHub, Linux e Docker</strong>, além de explorar conceitos de cloud com <strong>AWS</strong>.
 
-## Tecnologias
+📚 Gosto de aprender colocando a mão na massa, evoluindo por meio de projetos e buscando entender não só como o código funciona, mas como criar soluções claras e úteis.
 
-**Foco principal**
+🤖 No futuro, quero aprofundar meus conhecimentos em <strong>Machine Learning</strong> e conectar esse aprendizado à minha base em Python e dados.
 
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" /></a>
-<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /></a>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" /></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" /></a>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" /></a>
-<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" /></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" /></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" /></a>
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
+🚀 Estou em busca da minha <strong>primeira oportunidade na área de tecnologia</strong>, onde possa contribuir, aprender com outras pessoas e crescer como desenvolvedor.
 
-**Quero explorar:** TensorFlow e PyTorch.
 
-## Projetos
+---
 
-- [learning-python](https://github.com/robsondutraa/learning-python) — exercícios e prática com Python.
-- [sorteador-mega-sena](https://github.com/robsondutraa/sorteador-mega-sena) — projeto de sorteio da Mega-Sena.
-- [wonder-app-refresh](https://github.com/robsondutraa/wonder-app-refresh) — projeto em desenvolvimento.
+<h2 align="center">💻 Stack & Ferramentas</h2>
 
-## Contato
+<div align="center">
 
-- [LinkedIn](https://www.linkedin.com/in/robson-dutra-85255b27a/)
-- [E-mail](mailto:robsondutr4.05@gmail.com)
-- [GitHub](https://github.com/robsondutraa)
+<p><strong>Foco Principal:</strong></p>
+
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" /></a>
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" /></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" /></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" /></a>
+
+<p><strong>Uso em desenvolvimento web:</strong></p>
+
+<img src="https://skillicons.dev/icons?i=js&perline=1" />
+
+<p><strong>Quero explorar:</strong></p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
+
+</div>
+
+
+<h2 align="center">🤝 Conecte-se comigo</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/robson-dutra-85255b27a/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;
+<a href="mailto:robsondutr4.05@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/robsondutraa">
+<img src="https://img.shields.io/badge/GitHub-robsondutraa-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+
+## 🚀 Projetos
+
+<div align="center">
+
+<a href="https://github.com/robsondutraa/learning-python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=learning-python&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/robsondutraa/sorteador-mega-sena">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=sorteador-mega-sena&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/robsondutraa/wonder-app-refresh">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=robsondutraa&repo=wonder-app-refresh&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+
+
+<h2 align="center">🎯 Atualmente</h2>
+
+<div align="center">
+
+🐍 Aprofundando **Python** &nbsp; • &nbsp;
+⚙️ Estudando **Backend** &nbsp; • &nbsp;
+🗄️ Praticando **PostgreSQL e MySQL**  
+🐳 **Docker** &nbsp; • &nbsp;
+☁️ **AWS** &nbsp; • &nbsp;
+🤖 Explorando **Machine Learning**
+
+</div>
+
+---
+
+
+
+<br/>
+
+<div align="center">
+
+**Construindo projetos, desenvolvendo habilidades e buscando minha primeira oportunidade em tecnologia. 🚀**
+
+</div>
