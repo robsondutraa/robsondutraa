@@ -6,7 +6,7 @@
 
 ## 👋 Sobre mim
 
-<img align="right" src="https://i.pinimg.com/1200x/54/77/41/5477411898fc68c1955b3756f8be90db.jpg" alt="Goku" width="420" />
+<img align="right" src="https://i.pinimg.com/1200x/54/77/41/5477411898fc68c1955b3756f8be90db.jpg" alt="Goku" width="280" />
 
 
 🎓 Sou estudante de <strong>Ciência da Computação (4º período)</strong> e estou construindo minha trajetória na área de tecnologia, com foco em <strong>desenvolvimento Backend e Python</strong>.
